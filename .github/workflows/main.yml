@@ -7,8 +7,8 @@ on:
 
 env:
   TZ: "Asia/Shanghai"
-  USERNAME: ${{ secrets.USERNAME }}
-  PASSWORD: ${{ secrets.PASSWORD }}
+  USERNAME: ${{ secrets.15890121578 }}
+  PASSWORD: ${{ secrets.fGyyH3xS.YeGln }}
 
 jobs:
   main:
